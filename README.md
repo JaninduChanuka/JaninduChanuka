@@ -12,14 +12,15 @@
 <a href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
-
 </p>
 
 <h2>👨‍💻 About </h2>
-<h4 align="left"> 💻 Currently learning Diploma in Comprehensive Master Java Developer (CMJD) at IJSE and Full Stack Developer Programme at UOM</h4> 
-<h4 align="left"> 🎓 Bachelor of Science in Physical Science from the University of Sri Jayewardenepura</h4> 
-<h2>🛠️ Tech Stack </h2>
 
+- 💻 Currently learning Diploma in Comprehensive Master Java Developer (CMJD) at IJSE and Full Stack Developer Programme at UOM
+
+- 🎓 Bachelor of Science in Physical Science from the University of Sri Jayewardenepura
+
+<h2>🛠️ Tech Stack </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAABCUlEQVQokZXSsU6UURAF4G9YjNog0SxqJLZb2hIbGxpjQUHBC/AE2vkIBAoqCxofwc7GjoRIAoU1UhEg0hIoNiHHwlss7L8bmeQmNzNz5pwzGaZEkodJqqs2Mw2INSx0FWYnMPXwGfM4TfKiqn79D+MWXuEH3t0FTWTEBQ7wB/0JPWMy55L0kywn6SVZafmFZmFcapL3OMEnvMFHPEuyiAG2O4FV9R1fEFxi2KSe4yX2p3ncxE4b+gC/2/+wqo7HGJM8SfIWV9jDHK5xhJtmoXMpG0m+Jnl+J99Psp5kdfSKaqRhFh+w5N+1DBv7GXbxGqdV9fMWcAQ8aAt52t4jPMa3qjrqlHuf+As+xG1z9SBNwAAAAABJRU5ErkJggg==">
