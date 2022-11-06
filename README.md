@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=janinduchanuka&label=Profile%20views&color=0e75b6&style=flat" alt="janinduchanuka" /></p>
 <h1 align="center">Hi, I'm Janindu Chanuka</h1>
 <p align="center">
  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Programming%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a></p>
