@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Janindu Chanuka</h1>
-[comment]:<p align="center">
- <a><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Programming+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a></p>
+<p align="center">
+ <a>[comment]:<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Programming+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a></p>
 <p align="center">
 <a href="mailto:mkjchanuka@gmail.com" rel="nofollow">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
